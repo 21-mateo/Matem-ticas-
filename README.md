@@ -1,2 +1,2 @@
-# Matem-ticas-
+# Matemáticas 
 proyecto escolar de Matemáticas 
